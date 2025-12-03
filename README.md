@@ -59,7 +59,7 @@ Me llamo Daniel y soy estudiante de **Ingeniería de Sistemas** en el ITM, apasi
 
 ## 🎯 Lo que busco  
 
-Seguir creciendo como **desarrollador backend y full stack**, afianzar mis conocimientos en **.NET, C# y Java**, y realizar mis practicas profesionales para demostrar tanto mis habilidades en **desarrollo** como en **redes y bases de datos**.  
+Seguir creciendo como **desarrollador backend y full stack**, afianzar mis conocimientos en **.NET, C# y Java**, actualmente estoy desarrollando mis practicas profesionales para demostrar tanto mis habilidades en **desarrollo** como en **redes y bases de datos**.  
 
 ---
 
